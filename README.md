@@ -5,7 +5,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoromualdo&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 <div style="display: inline_block"><br>
-  <h3>Linguagens</h3>
+  <h3>Languages</h3>
   <img align="center" alt="Yago-HTML" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yago-CSS" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yago-Js" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -14,7 +14,7 @@
   <img align="center" alt="Yago-PHP" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
     <br><br>
   <h3>Frameworks</h3>
-  <img align="center" alt="Yago-Angular" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Yago-Angular" height="50" width="65" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
   <img align="center" alt="Yago-icon" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Yago-icon" height="40" width="54" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <br><br>

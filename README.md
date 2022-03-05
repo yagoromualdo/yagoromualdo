@@ -1,4 +1,4 @@
-## Olá, eu sou desenvolvedor web, e me chamo Yago Romualdo!
+## Olá, eu sou desenvolvedor web e me chamo Yago Romualdo!
 <div align="center">
   <a href="https://github.com/yagoromualdo">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=yagoromualdo&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>

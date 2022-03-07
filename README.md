@@ -6,21 +6,21 @@
 </div>
 <div style="display: inline_block"><br>
   <h3>Languages</h3>
-  <img align="center" alt="Yago-HTML" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yago-CSS" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yago-Js" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yago-Ts" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Yago-icon" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Yago-PHP" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Icon-HTML" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Icon-CSS" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Icon-JS" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icon-TS" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Icon-Java" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Icon-PHP" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
     <br><br>
   <h3>Frameworks</h3>
-  <img align="center" alt="Yago-Angular" height="50" width="65" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
-  <img align="center" alt="Yago-icon" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Yago-icon" height="40" width="54" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
+  <img align="center" alt="Icon-Angular" height="50" width="65" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+  <img align="center" alt="Icon-SpringBoot" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Icon-Laravel" height="40" width="54" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
     <br><br>
   <h3>Databases</h3>
-  <img align="center" alt="Yago-icon" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Yago-icon" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Icon-MySQL" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Icon-PostgreSQL" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
   
   ##

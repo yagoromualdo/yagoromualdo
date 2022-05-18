@@ -1,9 +1,5 @@
 ## Olá, eu sou desenvolvedor web e meu nome é Yago Romualdo!
-<div align="center">
-  <a href="https://github.com/yagoromualdo">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=yagoromualdo&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoromualdo&layout=compact&langs_count=7&theme=yeblu"/>
-</div>
+
 <div style="display: inline_block"><br>
   <h3>Languages</h3>
   <img align="center" alt="Icon-HTML" height="40" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

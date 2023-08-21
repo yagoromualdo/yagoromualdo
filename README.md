@@ -1,4 +1,4 @@
-## Olá, eu sou desenvolvedor web e meu nome é Yago Romualdo!
+## Yago Romualdo | Desenvolvedor Web
 
 <div style="display: inline_block"><br>
   <h3>Languages</h3>
